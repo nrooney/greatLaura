@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "name": "Great Laura",
+  "description": "Is Laura Great?",
+  "icons": {
+    "16": "http://localhost:8888/GreatLaura/img/ico16.jpg",
+    "48": "http://localhost:8888/GreatLaura/img/ico48.jpg",
+    "128": "http://localhost:8888/GreatLaura/img/ico128.jpg"
+  },
+  "launch_path": "http://localhost:8888/GreatLaura/",
+  "installs_allowed_from": ["*"]
+}
